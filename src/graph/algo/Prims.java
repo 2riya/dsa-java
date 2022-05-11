@@ -1,4 +1,4 @@
-package dsa.graph.algo;
+package graph.algo;
 
 import javafx.util.Pair;
 

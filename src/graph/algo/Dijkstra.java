@@ -1,4 +1,4 @@
-package dsa.graph.algo;
+package graph.algo;
 
 import java.util.Arrays;
 
